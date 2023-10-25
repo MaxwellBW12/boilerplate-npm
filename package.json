@@ -2,6 +2,8 @@
 	"author" : "Max Williams",
 	"description": "A project that does a thing",
 	"keywords": ["Jordan","Hordan","Hasalube","freecodecamp"],
+	"license": "BSD",
+	"version" : "1.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
