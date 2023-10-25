@@ -1,6 +1,6 @@
 {
 	"author" : "Max Williams",
-	"description": "A project that",
+	"description": "A project that does a thing",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
