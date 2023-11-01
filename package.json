@@ -5,7 +5,7 @@
 	"license": "BSD",
 	"version" : "1.0",
 	"name": "fcc-learn-npm-package-json",
-	
+
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
